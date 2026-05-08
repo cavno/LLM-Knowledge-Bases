@@ -1,3 +1,1 @@
-# LLM-Knowledge-Bases
-AI驱动个人笔记管理系统
-Obsidian + Claude Code
+## 个人知识创世纪计划
